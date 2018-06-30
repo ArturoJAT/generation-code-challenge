@@ -1,0 +1,8 @@
+.marker{
+    color: "#db3236";
+}
+
+.marker:hover{
+    color: "#db3236";
+    font-size: 30px;
+}
